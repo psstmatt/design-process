@@ -1,5 +1,5 @@
 # Design Process
-A quick overview of my design process when tackling projects.
+An overview of my design process when tackling projects.
 
 ##1. Product Definition
 
