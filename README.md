@@ -29,7 +29,7 @@ If an existing version exists, you have to do the same: screenshot everything, p
 
 Important thing here is to **map it all out**; it doesn’t have to be fancy, but something that can be understood easily by everyone on the team.
 
-**Suggested tools:** Pen & paper, [Lucidchart](https://www.lucidchart.com), Google Docs, and/or a ton of Post-It notes. Low fidelity is okay as long as it’s very easy to understand.
+**Suggested tools:** Pen & paper, [Lucidchart](https://www.lucidchart.com), [Google Docs] (https://www.google.com/docs/about/), and/or a ton of Post-It notes. Low fidelity is okay as long as it’s very easy to understand.
 
 ##4. Design
 
@@ -77,7 +77,7 @@ Gather and watch the data agains your **measurable hypothesis** that you defined
 
 The most important part here at the holy-crap-this-is-live-right-now stage is to not let yourself get discouraged when you don’t get the win you wanted on your first try. Accept that, more often than not, you’re going to be wrong and that you’ll need to iterate your way to success.
 
-**Suggested tools:** [Kissmetrics](http://kissmetrics.com/), [Mixpanel](http://mixpanel.com/), [Piwik](https://piwik.org/), [Google](http://google.com/analytics) Analytics
+**Suggested tools:** [Kissmetrics](http://kissmetrics.com/), [Mixpanel](http://mixpanel.com/), [Piwik](https://piwik.org/), [Google Analytics](http://google.com/analytics)
 
 ---
 
