@@ -86,3 +86,5 @@ The most important part here at the holy-crap-this-is-live-right-now stage is to
 Provide an amazing experience, that  
 Helps your users accomplish their goals, and  
 Enables your product and company to flourish  
+
+(During the collaboration process remember to use [The Sliding Scale of Giving a Fuck](http://blog.capwatkins.com/the-sliding-scale-of-giving-a-fuck))
